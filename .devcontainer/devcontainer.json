@@ -21,7 +21,8 @@
 				"esbenp.prettier-vscode",
 				"vscode-icons-team.vscode-icons",
 				"wayou.vscode-todo-highlight",
-				"christian-kohler.path-intellisense"
+				"christian-kohler.path-intellisense",
+				"adrianwilczynski.terminal-commands"
 			],
 			"settings": {
 				"editor.fontSize": 32,
