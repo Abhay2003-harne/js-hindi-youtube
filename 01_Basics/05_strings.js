@@ -15,4 +15,4 @@ let newDemo=playDemo.slice(-8,4)
 
 let demo2="   Abhay    "
 console.log(demo2)
-console.log(demo2.trim())
+console.log(demo2.trim());
